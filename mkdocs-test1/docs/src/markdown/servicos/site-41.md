@@ -15,7 +15,7 @@ responsavel:
   email: casantos@sefaz.salvador.ba.gov.br
 canais: 
  - 'Online'
-urlsite: undefined
+urlsite: https://www.sefaz.salvador.ba.gov.br/Parcelamentos
 unidades: 
  - 
 hide:

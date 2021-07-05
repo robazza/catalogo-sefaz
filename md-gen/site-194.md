@@ -15,7 +15,7 @@ responsavel:
   email: anery@sefaz.salvador.ba.gov.br
 canais: 
  - 'Online'
-urlsite: undefined
+urlsite: https://pad.salvador.ba.gov.br/
 unidades: 
  - 
 hide:

@@ -17,7 +17,7 @@ canais:
  - 'Online'
  - 'Presencial'
  - 'E-mail'
-urlsite: undefined
+urlsite: https://www.sefaz.salvador.ba.gov.br/Iptu/Emissao2via_iptuTrsd
 unidades: 
  - Posto Central - SEDE
  -  Postos SAC's

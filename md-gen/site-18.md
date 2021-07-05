@@ -17,7 +17,7 @@ canais:
  - 'Online'
  - 'Presencial'
  - 'E-mail'
-urlsite: undefined
+urlsite: https://www.sefaz.salvador.ba.gov.br/imobiliario/Certidao/Pesquisar?funcao=UC00100
 unidades: 
  - Posto Central - SEDE
  -  Postos SAC's

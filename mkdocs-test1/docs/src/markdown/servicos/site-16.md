@@ -16,7 +16,7 @@ responsavel:
 canais: 
  - 'Online'
  - 'E-mail'
-urlsite: undefined
+urlsite: https://www.sefaz.salvador.ba.gov.br/IPTU/EmissaoDemonstrativoParteReconhecida?Length=4
 unidades: 
  - 
 hide:

@@ -18,7 +18,7 @@ responsavel:
 canais: 
  - 'Online'
  - 'Presencial'
-urlsite: undefined
+urlsite: https://www.sefaz.salvador.ba.gov.br/DAM/EmissaoDeclaraEconomica?Length=3
 unidades: 
  - Posto Central - SEDE
 hide:

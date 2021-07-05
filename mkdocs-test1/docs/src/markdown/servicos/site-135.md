@@ -16,7 +16,7 @@ responsavel:
 canais: 
  - 'Online'
  - 'E-mail'
-urlsite: undefined
+urlsite: https://www.sefaz.salvador.ba.gov.br/cartaanuencia/Home/ValidarCartaCancelamento
 unidades: 
  - Posto Central - SEDE
  -  Postos SAC's

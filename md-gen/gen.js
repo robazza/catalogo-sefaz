@@ -1,5 +1,6 @@
 csv = [
   {
+    "Carimbo de data/hora": "18/06/2021 15:53:46",
     "Código Único": "site-15",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -13,9 +14,11 @@ csv = [
     "Documentação Exigida": "Numero do parcelamento ou acesso ao site do PAD/PPI com senha do contribuinte",
     "Custo": "Sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei 7.186 de 2006"
+    "Legislação": "Lei 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos"
   },
   {
+    "Carimbo de data/hora": "21/06/2021 11:21:31",
     "Código Único": "site-16",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -29,9 +32,11 @@ csv = [
     "Documentação Exigida": "Inscrição",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/IPTU/EmissaoDemonstrativoParteReconhecida?Length=4"
   },
   {
+    "Carimbo de data/hora": "21/06/2021 13:00:19",
     "Código Único": "site-18",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -45,9 +50,11 @@ csv = [
     "Documentação Exigida": "Inscrição Imobiliária ou Municipal (CGA) ou CPF ou CNPJ.",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/imobiliario/Certidao/Pesquisar?funcao=UC00100"
   },
   {
+    "Carimbo de data/hora": "21/06/2021 13:22:51",
     "Código Único": "site-19",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -61,9 +68,11 @@ csv = [
     "Documentação Exigida": "Inscrição Imobiliária ou CPF",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/IPTU/certidaoDebito?Length=4"
   },
   {
+    "Carimbo de data/hora": "21/06/2021 14:08:41",
     "Código Único": "site-20",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -77,9 +86,11 @@ csv = [
     "Documentação Exigida": "Código de Controle da Certidão",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/IPTU/validaCertidaoDebito?Length=4"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 10:12:56",
     "Código Único": "site-21",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -93,9 +104,11 @@ csv = [
     "Documentação Exigida": "Inscrição Imobiliária ou CPF",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/IPTU/consultaDebito?Length=4"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 10:39:59",
     "Código Único": "site-41",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -109,9 +122,11 @@ csv = [
     "Documentação Exigida": "Senha web e inscrição Municipal ou Imobiliária",
     "Custo": "Sem custo",
     "Prazo de Atendimento": "Pronto atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 14:02:34",
     "Código Único": "site-42",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -125,9 +140,11 @@ csv = [
     "Documentação Exigida": "Inscrição de CGA ou CNPJ",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/TFF/certidaoDebitoTFF"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 15:08:13",
     "Código Único": "site-43",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -141,9 +158,11 @@ csv = [
     "Documentação Exigida": "Inscrição Municipal (CGA) ou CNPJ",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 e 2006"
+    "Legislação": "Lei nº 7.186 e 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/TFF/consultaDebitoTFF"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 15:18:48",
     "Código Único": "site-45",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -157,9 +176,11 @@ csv = [
     "Documentação Exigida": "Código de Controle da Certidão",
     "Custo": "Sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/TFF/validaCertidaoDebito?Length=3"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 15:52:18",
     "Código Único": "site-77",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -173,9 +194,11 @@ csv = [
     "Documentação Exigida": "Senha web, inscrição Imobiliária ou Inscrição Municiapal (CGA), CPF ou CNPJ",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos"
   },
   {
+    "Carimbo de data/hora": "22/06/2021 16:00:33",
     "Código Único": "site-82",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -189,9 +212,11 @@ csv = [
     "Documentação Exigida": "Inscrição Municipal (CGA), CPF ou CNPJ",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/ISS/IssCertidaoNegativaDebito"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 10:23:51",
     "Código Único": "site-83",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -205,9 +230,11 @@ csv = [
     "Documentação Exigida": "Inscrição Municipal (CGA), CPF ou CNPJ.",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/ISS/IssConsultaDebito"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 11:20:30",
     "Código Único": "site-91",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -221,9 +248,11 @@ csv = [
     "Documentação Exigida": "1ª via do DAM ou CPF ou CNPJ ou CGA.",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 13:29:19",
     "Código Único": "site-92",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -237,9 +266,11 @@ csv = [
     "Documentação Exigida": "1ª via do DAM ou CPF ou Inscrição Imobiliária",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Iptu/Emissao2via_iptuTrsd"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 13:52:23",
     "Código Único": "site-93",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -253,9 +284,11 @@ csv = [
     "Documentação Exigida": "CNPJ ou Inscrição Municipal (CGA)",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/Emissao2viaTFF?Length=3"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 14:13:27",
     "Código Único": "site-94",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -269,9 +302,11 @@ csv = [
     "Documentação Exigida": "CPF ou Inscrição Municipal (CGA)",
     "Custo": "Sem Custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/Emissao2viaDamTffAutonomo?Length=3"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 15:12:17",
     "Código Único": "site-95",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -285,9 +320,11 @@ csv = [
     "Documentação Exigida": "Não se aplica",
     "Custo": "Sem custo",
     "Prazo de Atendimento": "não se aplica",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/Emissao2viaForo?Length=3"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 15:51:20",
     "Código Único": "site-96",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -301,9 +338,11 @@ csv = [
     "Documentação Exigida": "senha web, inscrição Municipal (CGA) ou Inscrição Imobiliária",
     "Custo": "Sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 8.422/2013 / Lei 9.548 de 2020 (atualizado)"
+    "Legislação": "Lei nº 8.422/2013 / Lei 9.548 de 2020 (atualizado)",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos"
   },
   {
+    "Carimbo de data/hora": "23/06/2021 15:55:50",
     "Código Único": "site-97",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -317,9 +356,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "não se aplica",
-    "Legislação": "LEI Nº 8.421/2013"
+    "Legislação": "LEI Nº 8.421/2013",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/issDeclarado?Length=3"
   },
   {
+    "Carimbo de data/hora": "25/06/2021 15:46:08",
     "Código Único": "site-98",
     "Coordenação Responsável": "CFI",
     "Setor Responsável": "",
@@ -333,9 +374,11 @@ csv = [
     "Documentação Exigida": "CGA, CNPJ, e as compentências",
     "Custo": "",
     "Prazo de Atendimento": "não informado",
-    "Legislação": "não informado"
+    "Legislação": "não informado",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/EmissaoDeclaraEconomica?Length=3"
   },
   {
+    "Carimbo de data/hora": "28/06/2021 10:46:16",
     "Código Único": "site-99",
     "Coordenação Responsável": "CFI",
     "Setor Responsável": "SEDOF",
@@ -349,9 +392,11 @@ csv = [
     "Documentação Exigida": "Inscrição do CGA ou CNPJ",
     "Custo": "",
     "Prazo de Atendimento": "não",
-    "Legislação": "LEI nº 8421 de 2013"
+    "Legislação": "LEI nº 8421 de 2013",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/EmissaoDamIssSubsTributario?Length=3"
   },
   {
+    "Carimbo de data/hora": "28/06/2021 10:58:59",
     "Código Único": "site-100",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -365,9 +410,11 @@ csv = [
     "Documentação Exigida": "Inscrição Imobiliária",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto atendimento",
-    "Legislação": "Lei nº 7.186 de 2003"
+    "Legislação": "Lei nº 7.186 de 2003",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Iptu/Emissao2via_DividaAtiva"
   },
   {
+    "Carimbo de data/hora": "28/06/2021 12:06:22",
     "Código Único": "site-101",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -381,9 +428,11 @@ csv = [
     "Documentação Exigida": "Inscrição do CGA ou CNPJ",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/DamTFFDividaAtiva?Length=3"
   },
   {
+    "Carimbo de data/hora": "28/06/2021 12:24:40",
     "Código Único": "site-102",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -397,9 +446,11 @@ csv = [
     "Documentação Exigida": "Inscrição do CGA ou CPF",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto atendimento",
-    "Legislação": "LEI nº 7.186 de 2006"
+    "Legislação": "LEI nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/DAM/EmissaoDamIssAutonomoDividaAtiva?Length=3"
   },
   {
+    "Carimbo de data/hora": "28/06/2021 13:25:13",
     "Código Único": "site-103",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -413,9 +464,11 @@ csv = [
     "Documentação Exigida": "Inscrição Imobiliária ou Inscrição CGA ou nº de parcelamento",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "LEI nº 7.186 de 2006"
+    "Legislação": "LEI nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Iptu/Obterdebitoautomatico"
   },
   {
+    "Carimbo de data/hora": "28/06/2021 13:53:39",
     "Código Único": "site-115",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -429,9 +482,11 @@ csv = [
     "Documentação Exigida": "Inscrição de CGA ou CPF ou CNPJ ou Inscrição Imobiliária",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "LEI nº 7.186 de 2006"
+    "Legislação": "LEI nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Certidoes"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 09:30:34",
     "Código Único": "site-116",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -445,9 +500,11 @@ csv = [
     "Documentação Exigida": "Senha web",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/imobiliario/Certidao/Pesquisar?funcao=UC00100"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 09:58:12",
     "Código Único": "site-117",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -461,9 +518,11 @@ csv = [
     "Documentação Exigida": "Inscrição Imobiliária",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Certidoes/CtdNegaDbtImob?Length=9"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 10:15:45",
     "Código Único": "site-118",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -477,9 +536,11 @@ csv = [
     "Documentação Exigida": "Inscrição CGA",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Certidoes/CtdNegaDbtMob?Length=9"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 10:40:28",
     "Código Único": "site-119",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -493,9 +554,11 @@ csv = [
     "Documentação Exigida": "Número da Solicitação da certidão",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Certidoes/ConsultaCtd?Length=9"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 11:03:20",
     "Código Único": "site-133",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -509,9 +572,11 @@ csv = [
     "Documentação Exigida": "CPF ou CNPJ ou inscrição Mobiliária ou Inscrição Imobiliária ou nº do AI/NFL/RDT",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/cartaanuencia/Home/PesquisaCartaAnuencia"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 11:26:23",
     "Código Único": "site-134",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -525,9 +590,11 @@ csv = [
     "Documentação Exigida": "Carta de Anuência",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/cartaanuencia/Home/ValidarCartaAnuencia"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 11:46:47",
     "Código Único": "site-135",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -541,9 +608,11 @@ csv = [
     "Documentação Exigida": "Carta de anuência",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/cartaanuencia/Home/ValidarCartaCancelamento"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 12:21:44",
     "Código Único": "site-151",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -557,9 +626,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "não se aplica"
+    "Legislação": "não se aplica",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Servicos/formularios"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 12:30:21",
     "Código Único": "site-153",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -573,9 +644,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "IN SEFAZ/DRM 10/2018"
+    "Legislação": "IN SEFAZ/DRM 10/2018",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Documento/ObterArquivo/1587"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 14:42:08",
     "Código Único": "site-154",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -589,9 +662,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "IN SEFAZ/DRM 10/2018"
+    "Legislação": "IN SEFAZ/DRM 10/2018",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Documento/ObterArquivo/1586"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 14:46:52",
     "Código Único": "site-161",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -605,9 +680,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Arquivos/Formularios/Peticao.pdf"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 14:56:11",
     "Código Único": "site-186",
     "Coordenação Responsável": "CTJ",
     "Setor Responsável": "",
@@ -621,9 +698,11 @@ csv = [
     "Documentação Exigida": "RG, CPF, CNPJ, Contrato Social, Ata e Estatuto, certificado da Instituição Filantrópica.",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Indeterminado",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Servicos/Atendimento"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:06:01",
     "Código Único": "site-194",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SECOP",
@@ -637,9 +716,11 @@ csv = [
     "Documentação Exigida": "Cadastro no site (senha web) mediante cadastro débitos aparecerão",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 8.422 de 2013"
+    "Legislação": "Lei nº 8.422 de 2013",
+    "urlsite": "https://pad.salvador.ba.gov.br/"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:09:30",
     "Código Único": "site-195",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SECOP",
@@ -653,9 +734,11 @@ csv = [
     "Documentação Exigida": "Cadastro no site (senha web)",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 8.422/2013, de 15 de julho de 2013"
+    "Legislação": "Lei nº 8.422/2013, de 15 de julho de 2013",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:12:16",
     "Código Único": "site-196",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SECOP",
@@ -669,9 +752,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "não se aplica",
-    "Legislação": "Lei nº 8.422/2013, de 15 de julho de 2013"
+    "Legislação": "Lei nº 8.422/2013, de 15 de julho de 2013",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos/AboutParcelamentos?Length=13"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:15:13",
     "Código Único": "site-197",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SECOP",
@@ -685,9 +770,11 @@ csv = [
     "Documentação Exigida": "cadastro na senha web",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Ultimo em vigor Lei 9.548 de 02 de outubro de 2020"
+    "Legislação": "Ultimo em vigor Lei 9.548 de 02 de outubro de 2020",
+    "urlsite": "https://ppi.salvador.ba.gov.br/"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:17:54",
     "Código Único": "site-198",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SECOP",
@@ -701,9 +788,11 @@ csv = [
     "Documentação Exigida": "Cadastro senha WEB",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 8.422/2013, de 15 de julho de 2013"
+    "Legislação": "Lei nº 8.422/2013, de 15 de julho de 2013",
+    "urlsite": "https://pad.salvador.ba.gov.br/"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:31:58",
     "Código Único": "site-199",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SEATE",
@@ -717,9 +806,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "não se aplica",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos/ParcelamentoSEFAZ?Length=13"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:41:50",
     "Código Único": "site-200",
     "Coordenação Responsável": "PGMS",
     "Setor Responsável": "",
@@ -733,9 +824,11 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "não se aplica",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos/ParcelamentoDividaAtiva?Length=13"
   },
   {
+    "Carimbo de data/hora": "29/06/2021 15:50:41",
     "Código Único": "site-201",
     "Coordenação Responsável": "CRC",
     "Setor Responsável": "SECOP",
@@ -749,7 +842,8 @@ csv = [
     "Documentação Exigida": "não se aplica",
     "Custo": "sem custo",
     "Prazo de Atendimento": "Pronto Atendimento",
-    "Legislação": "Lei nº 7.186 de 2006"
+    "Legislação": "Lei nº 7.186 de 2006",
+    "urlsite": "https://www.sefaz.salvador.ba.gov.br/Parcelamentos/ParcelamentoREFIS?Length=13"
   }
 ]
 
