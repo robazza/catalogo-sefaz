@@ -1,0 +1,5 @@
+## Legislação Relacionada
+
+{% for it in page.meta.legislação %}
+- [X] {{ it }}
+{% endfor %}

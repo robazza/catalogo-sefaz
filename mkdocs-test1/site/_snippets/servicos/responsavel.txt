@@ -1,0 +1,15 @@
+## Coordenação Responsável
+
+{{ page.meta.responsavel.coordenacao }}
+
+## Setor Responsável
+
+{{ page.meta.responsavel.setor }}
+
+## Nome Responsável
+
+{{ page.meta.responsavel.nome }}
+
+## E-mail Responsável
+
+{{ page.meta.responsavel.email }}

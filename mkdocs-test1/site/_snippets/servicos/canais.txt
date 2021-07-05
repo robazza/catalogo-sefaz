@@ -1,0 +1,30 @@
+## Canais de Atendimento
+
+{% if 'Presencial' in page.meta.canais %}
+
+??? settings   "Presencial (clique para ver mais)" 
+
+	Unidades que oferecem o serviço:
+	
+	{% for it in page.meta.unidades %}
+	- [X] {{ it }}
+	{% endfor %}
+
+{% endif %}
+
+
+{% if 'Online/site' in page.meta.canais %}
+
+??? settings   "Online/site (clique para ver mais)"
+    [Acesso ao Serviço Online]( {{page.meta.urlsite }}){ .md-button }
+
+{% endif %}
+
+	
+{% if 'E-mail' in page.meta.canais %}
+
+??? settings   "E-mail (clique para ver mais)"
+    Envie e-mail para {{ page.meta.responsavel.email }} com o título "{{ page.meta.title }}" e anexe foto legível dos documentos listados em Documentação Exigida.
+	O atendente manterá o contato via e-mail para atendimento a solicitação.
+
+{% endif %}

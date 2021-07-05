@@ -1,0 +1,5 @@
+## Documentação Exigida
+
+{% for it in page.meta.documentacao %}
+- [X] {{ it }}
+{% endfor %}

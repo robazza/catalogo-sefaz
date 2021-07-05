@@ -1,0 +1,3 @@
+## Prazo de Atendimento
+
+{{ page.meta.prazo }}
