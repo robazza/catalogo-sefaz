@@ -1,7 +1,7 @@
-site_name: PyMdown Extensions Documentation
-site_url: https://4c412f4e9adb.ngrok.io/portal-catalogo
-repo_url: https://github.com/facelessuser/pymdown-extensions
-edit_uri: tree/master/docs/src/markdown
+site_name: Portal de Serviços da SEFAZ Salvador
+site_url: https://robazza.github.io/catalogo-sefaz/mkdocs-test1/site/
+repo_url: https://github.com/robazza/catalogo-sefaz
+edit_uri: tree/master/mkdocs-test1/docs/src/markdown
 site_description: |
   A Coordenadoria de Tecnologia da Informação e Comunicação - COT, 
   apresenta o Portal de Processos, com o objetivo de melhorar a qualidade dos produtos desenvolvidos,
@@ -38,8 +38,8 @@ theme:
     - navigation.expand
 
 nav:
-  - Home:
-    - Pymdown Extensions: index.md
+  - Portal:
+    - conheca.md
   - Servicos:
     - servicos/site-100.md
     - servicos/site-101.md

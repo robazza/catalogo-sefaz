@@ -1,7 +1,7 @@
 /**************Modificações*********************/
 
 .md-header-nav__source, .md-announce{display:none !important;}
-.md-sidebar__scrollwrap .md-nav__title{display:none !important;}
+/*.md-sidebar__scrollwrap .md-nav__title{display:none !important;}*/
 .md-sidebar__scrollwrap .md-nav__item{font-weight:400;}
 
 .md-header{
